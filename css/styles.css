@@ -88,28 +88,28 @@ h1 {
   .poof {
     position: fixed;
     bottom: 20px;
-    left: 55%;
+    left: 60%;
     width: 360px; 
     height: auto; 
   }
   .chomp {
     position: fixed;
     bottom: 50px;
-    left: 50%;
+    left: 65%;
     width: 300px; 
     height: auto; 
   }
   .idle {
     position: fixed;
     bottom: -500px;
-    left: 25%;
+    left: 35%;
     width: 1000px; 
     height: auto; 
   }
   .evil {
     position: fixed;
     bottom: -500px;
-    left: 24%;
+    left: 30%;
     width: 1000px; 
     height: auto; 
   }
