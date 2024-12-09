@@ -95,7 +95,7 @@ h1 {
   .chomp {
     position: fixed;
     bottom: 50px;
-    left: 100%;
+    right: 10%;
     width: 300px; 
     height: auto; 
   }
