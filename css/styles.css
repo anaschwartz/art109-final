@@ -102,19 +102,10 @@ h1 {
   .idle {
     position: fixed;
     bottom: -500px;
-    left: 400px;
+    left: 40px;
     width: 1000px; 
     height: auto; 
   }
-
-  .angry {
-    position: fixed;
-    bottom: 140px;
-    left: 50%;
-    width: 250px; 
-    height: auto; 
-  }
-
   .evil {
     position: fixed;
     bottom: -500px;
