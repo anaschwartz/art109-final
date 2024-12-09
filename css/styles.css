@@ -88,7 +88,7 @@ h1 {
   .poof {
     position: fixed;
     bottom: 20px;
-    left: 45%;
+    left: 50%;
     width: 360px; 
     height: auto; 
   }
@@ -109,7 +109,7 @@ h1 {
   .evil {
     position: fixed;
     bottom: -500px;
-    left: 20%;
+    left: 35%;
     width: 1000px; 
     height: auto; 
   }
