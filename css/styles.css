@@ -88,14 +88,14 @@ h1 {
   .poof {
     position: fixed;
     bottom: 20px;
-    left: 60%;
+    left: 50%;
     width: 360px; 
     height: auto; 
   }
   .chomp {
     position: fixed;
     bottom: 50px;
-    right: 10%;
+    left: 60%;
     width: 300px; 
     height: auto; 
   }
