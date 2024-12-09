@@ -88,7 +88,7 @@ h1 {
   .poof {
     position: fixed;
     bottom: 20px;
-    left: 50%;
+    left: 65%;
     width: 360px; 
     height: auto; 
   }
@@ -102,7 +102,7 @@ h1 {
   .idle {
     position: fixed;
     bottom: -500px;
-    left: 10%;
+    left: 50%;
     width: 1000px; 
     height: auto; 
   }
