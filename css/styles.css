@@ -106,6 +106,15 @@ h1 {
     width: 1000px; 
     height: auto; 
   }
+
+  .angry {
+    position: fixed;
+    bottom: 140px;
+    left: 625px;
+    width: 250px; 
+    height: auto; 
+  }
+
   .evil {
     position: fixed;
     bottom: -500px;
