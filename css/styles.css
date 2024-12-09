@@ -100,7 +100,7 @@ h1 {
   .idle {
     position: fixed;
     bottom: -500px;
-    left: 40px;
+    left: 300px;
     width: 1000px; 
     height: auto; 
   }
